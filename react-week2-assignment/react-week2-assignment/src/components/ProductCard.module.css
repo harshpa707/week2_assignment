@@ -1,0 +1,15 @@
+.card {
+  background: white;
+  padding: 25px;
+  margin: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+  color: #2563eb;
+}
+
+.card h3 {
+  color: green;
+}
